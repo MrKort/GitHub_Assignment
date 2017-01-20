@@ -4,3 +4,5 @@ Dit aangezien het handig is voor mijn algemene gemiddelde.
 Verder heb ik natuurlijk veel handige trucjes geleerd in het college.
 De meest handige feature in GitHub is natuurlijk het kunnen delen van code en er tegelijkertijd met teamgenoten aan kunnen werken.
 By the way, zijn er makkelijkere manieren om files te herstellen na een delete, dan beschreven in File_recovery.txt?
+
+Misschien kan ik hiermee ook een nieuwe branch maken??

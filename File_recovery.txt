@@ -1,0 +1,8 @@
+git log --diff-filter=D
+# search for commits that deleted files
+# this gives the commit_ID
+
+git checkout commit_ID~1 file_name
+# example git checkout b84a8fe53d88927c13477bbc29c32f648b2ba22b~1 The_Grade_I_should_get_is_..txt
+# this retrieves the file on your local system
+# now add, commit, and push to send it back to GitHub
